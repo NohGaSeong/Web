@@ -17,3 +17,11 @@ body, input, textarea, select, button, table {
     'Malgun Gothic','맑은 고딕',dotum,'돋움',sans-serif; 
     color: #222; font-size:13px; line-height: 1.5;
 }
+
+
+dl,ul,li,ol,menu {list-style: none;}
+
+/* title tag reset */
+h1,h2,h3,h4,h5,h6{
+    font-size:13px; color:#222; font-weight: normal;
+}
