@@ -21,6 +21,7 @@ body, input, textarea, select, button, table {
 /*font style reset */
 em,address {font-style: normal;}
 
+button {border:0;}
 
 dl,ul,li,ol,menu {list-style: none;}
 
